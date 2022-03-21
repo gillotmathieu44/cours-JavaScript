@@ -49,3 +49,18 @@ body {
   top: 6px;
   right: 23px;
 }
+
+.btn-change {
+  right: -1px;
+  left: auto; /*nécessaire pour ne pas prendre en compte la valeur left*/
+}
+.icone-change {
+  left: 20px;
+}
+.switch-change {
+  background-color: #61b3ff;
+  border: 1px solid #61b3ff;
+}
+.container-change {
+  background-color: #cbe6ff;
+}
